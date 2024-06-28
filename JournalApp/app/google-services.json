@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "153182470199",
+    "project_id": "journalapp-c750b",
+    "storage_bucket": "journalapp-c750b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153182470199:android:0ffc4042969381c3fc3fb2",
+        "android_client_info": {
+          "package_name": "com.trisha.journalapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTyY4CoZyRDeCm3xpeAQkDw319DWq9r70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

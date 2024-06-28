@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto" >
+
+    <item
+        android:id = "@+id/action_add"
+        android:title="add Journal"
+        app:showAsAction="ifRoom|withText"
+        ></item>
+
+    <item
+        android:title="Sign Out"
+        android:id="@+id/action_signOut"
+        app:showAsAction="never"
+       />
+
+
+</menu>

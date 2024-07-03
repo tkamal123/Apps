@@ -1,4 +1,4 @@
-This is a OCRApp in this choose an image and it prints out the text and there is an option to also read the text
+This is an OCRApp in this you choose an image from the gallery and it prints out the text and there is also an option to read the text
 Backend: 
 Machine Learning Kit
 Frontend:
